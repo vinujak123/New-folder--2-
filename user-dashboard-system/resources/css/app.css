@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+select, select option {
+  color: #000 !important;
+  background-color: #fff !important;
+}
